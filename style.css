@@ -139,7 +139,7 @@ h2 {
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
   margin: 0 auto;
-  padding: 20px 24px 70px;
+  padding: 20px 24px 30px;
 }
 
 .card {
