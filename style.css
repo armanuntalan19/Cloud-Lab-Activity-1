@@ -165,7 +165,7 @@ h2 {
 }
 
 .why {
-  padding: 65px 24px;
+  padding: 40px 24px 65px;
   text-align: center;
   background: var(--light);
 }
